@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [paulmillr/array.prototype.find](http://github.com/paulmillr/array.prototype.find). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/paulmillr-array.prototype.find`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # ES6 `Array.prototype.find` polyfill
 
 Simple ES6 [Array.prototype.find](http://people.mozilla.org/%7Ejorendorff/es6-draft.html#sec-array.prototype.find) polyfill for older environments taken from [es6-shim](https://github.com/paulmillr/es6-shim).
